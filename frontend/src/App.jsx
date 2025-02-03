@@ -1,5 +1,5 @@
 import { Routes, Route } from 'react-router-dom'
-import Home from './template/home'
+import Home from './template/Home'
 import Addnew from './template/Addnew'
 import Navbar from './template/Navbar'
 import Update from './template/Update'
